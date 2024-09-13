@@ -20,3 +20,13 @@ div#menu {
 	height:400px;
 	background-color:#FF6699;
 	}
+div#menuhaut {
+	width:100px;
+	height:200px;
+	background-color:#66CC33;
+	}
+div#menubas {
+	width:100px;
+	height:200px;
+	background-color:#CC99CC;
+	}
