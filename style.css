@@ -14,19 +14,25 @@
 	background-color:green;
 	clear:both;
 	}
-div#menu {
+#menu {
 	float:left;
 	width:100px;
 	height:400px;
 	background-color:#FF6699;
 	}
-div#menuhaut {
+#menuhaut {
 	width:100px;
 	height:200px;
 	background-color:#66CC33;
 	}
-div#menubas {
+#menubas {
 	width:100px;
 	height:200px;
 	background-color:#CC99CC;
+	}
+#blocnews {
+	float:right;
+	width:150px;
+	height:150px;
+	background-color:#FF3300;
 	}
