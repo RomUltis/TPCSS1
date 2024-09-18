@@ -51,3 +51,23 @@ table {
 	font-size: 0.8rem;
 	letter-spacing: 1px;
   }
+.table-container {
+    margin: 20px;
+}
+
+td {
+    border: 1px solid #000;
+    padding: 10px;
+    font-size: 15px;
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.separator {
+    color: red;
+    font-size: 18px;
+    margin: 10px 0;
+}
